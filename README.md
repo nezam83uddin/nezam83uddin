@@ -1,6 +1,5 @@
-### Hi I'm Nezam Uddin 👋
+### Hi This is Nezam Uddin 👋
 I'm a self-taught passionate Robotic Process automation developer 
-
 
 About me:
 - 🔭 I’m currently working on automation engineer

@@ -11,4 +11,4 @@ About me:
 -->
 
 ![Nezam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezam83uddin&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nezam83uddin)](https://github.com/nezam83uddin/github-readme-stats)
+

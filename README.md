@@ -10,4 +10,4 @@ About me:
 - 📫 How to reach me: rpanezam@gmail.com
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Nezam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nezam83uddin&show_icons=true&theme=radical)

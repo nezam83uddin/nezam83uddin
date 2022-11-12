@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nezam Uddin </h1>
 <h3 align="center">I'm currently working as a "RPA Developer" and "Software Engineer in Test". Work in Various projects Software Automation, DevOps, SQA, Manual testing, API testing, Web & Mobile application testing,Database testing</h3>
-[Sajib]([https://regex101.com/r/xyKKg6/1](https://github.com/nezam83uddin/rpa/blob/main/1.md)
+
  
 <!-- - 🔭 I’m currently working on **Software Automation Project** -->
 
